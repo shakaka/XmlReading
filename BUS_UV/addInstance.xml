@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XDF xml:lang="EN" XdfTypeSyntaxVersion="2.0.00">
+  <Instances>
+    <Parent Path="Network/Companies/TPC/TC/S01/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S01/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S04/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S04/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S04/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S04/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S05/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S05/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S05/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S05/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S05/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S06/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S06/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S07/11/4ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S07/11/4BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S07/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S07/11/1BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S07/11/1ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S07/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S07/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S08/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S08/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S09/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S09/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S09/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S09/22/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S09/22/4BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S09/22/4ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S10/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S10/11/4BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S10/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S10/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S10/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S11/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S11/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S11/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S11/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S11/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S12/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S12/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S12/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S12/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S13/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S13/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S15/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S15/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S15/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S15/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S15/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/11/1BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/11/1ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/11/4BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/11/4ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S17/22/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S17/22/1BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S17/22/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S17/22/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S17/22/1ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S17/22/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S18/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S18/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S18/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S18/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S19/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S19/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S19/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S19/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S20/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S20/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S21/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S21/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S21/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S21/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S24/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S24/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S25/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S25/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S25/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S26/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S26/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S26/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S26/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S26/11/1BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S26/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S26/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S27/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S27/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S27/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S27/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S28/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S28/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S28/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S28/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S30/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S30/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S30/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S30/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S31/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S31/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S31/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S31/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S41/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S41/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S41/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S41/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S43/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S43/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S43/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S43/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S44/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S44/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S45/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S45/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S45/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S45/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S45/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S45/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S45/11/4BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S47/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S47/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S47/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S47/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S47/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S48/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S48/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S48/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S48/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S49/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S49/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S49/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S49/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S50/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S50/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S50/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S50/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S51/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S51/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S51/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S52/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S52/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S52/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S52/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S53/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S53/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S53/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S53/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S54/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S54/11/4BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S54/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S54/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S54/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S54/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S54/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S55/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S55/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S56/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S56/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S56/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S56/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S57/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S57/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S57/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S57/22/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S58/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S58/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S58/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S58/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S59/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S59/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S59/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S59/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S59/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S60/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S60/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S60/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S60/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S61/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S61/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S61/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S61/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S62/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S62/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S62/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S62/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S71/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S71/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S71/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S71/22/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S72/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S72/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S72/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S72/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S73/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S73/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S73/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S73/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S74/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S74/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S74/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S74/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S75/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S75/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S76/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S76/11/4BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S76/22/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S76/22/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S76/22/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S78/11/2BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S78/11/3BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S78/11/2ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S78/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S79/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S79/11/3ABUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S79/11/3BBUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S79/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S80/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S80/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S81/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S81/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S82/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S82/11/1BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+  </Instances>
+</XDF>

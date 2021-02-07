@@ -1,0 +1,3205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XDF xml:lang="EN" XdfTypeSyntaxVersion="2.0.00">
+  <Instances>
+    <Parent Path="Network/Companies/TPC/TC/H07/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H03/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P16/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P15/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S23/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P09/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D35/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S85/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S32/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D88/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D87/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E02/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E09/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E08/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E07/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E06/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E04/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E03/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S82/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S81/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S80/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S79/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S78/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S76/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S75/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S74/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S73/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S72/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S71/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S62/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S61/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S60/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S59/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S58/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S57/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S56/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S55/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S54/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S53/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S52/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S51/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S50/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S49/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S48/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S47/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S45/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S44/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S43/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S42/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S41/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S31/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S30/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S28/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S27/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S26/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S25/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S24/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S21/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S20/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S19/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S18/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S17/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S15/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S13/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S12/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S11/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S10/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S09/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S08/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S07/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S06/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S04/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P14/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P13/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P12/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P11/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D86/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D85/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D84/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D83/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D82/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D81/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D80/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D79/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D78/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D77/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D76/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D75/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D74/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D73/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D72/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D71/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D70/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D69/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D68/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D67/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D66/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D65/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D64/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D63/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D62/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D61/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D59/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D58/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D57/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D56/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D55/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D54/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D53/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D52/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D51/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D50/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D49/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D48/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D47/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D46/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D45/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D44/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D43/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D42/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D41/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D40/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D39/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D38/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D37/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D34/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D33/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D32/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D31/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D36/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C18/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C09/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C04/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C15/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C17/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C11/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C16/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C13/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C08/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C02/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C12/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C14/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C06/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C10/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C30/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/W06/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/W05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/W07/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/T01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H04/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H02/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H07/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H03/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P16/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P15/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S23/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P09/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D35/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S85/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S32/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D88/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D87/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E02/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E09/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E08/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E07/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E06/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E04/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E03/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/E01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S82/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S81/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S80/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S79/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S78/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S76/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S75/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S74/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S73/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S72/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S71/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S62/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S61/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S60/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S59/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S58/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S57/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S56/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S55/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S54/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S53/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S52/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S51/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S50/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S49/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S48/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S47/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S45/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S44/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S43/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S42/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S41/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S31/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S30/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S28/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S27/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S26/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S25/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S24/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S21/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S20/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S19/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S18/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S17/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S16/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S15/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S13/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S12/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S11/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S10/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S09/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S08/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S07/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S06/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S04/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/S01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P14/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P13/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P12/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/P11/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D86/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D85/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D84/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D83/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D82/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D81/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D80/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D79/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D78/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D77/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D76/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D75/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D74/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D73/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D72/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D71/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D70/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D69/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D68/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D67/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D66/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D65/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D64/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D63/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D62/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D61/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D59/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D58/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D57/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D56/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D55/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D54/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D53/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D52/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D51/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D50/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D49/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D48/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D47/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D46/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D45/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D44/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D43/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D42/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D41/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D40/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D39/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D38/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D37/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D34/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D33/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D32/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D31/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/D36/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C18/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C09/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C04/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C15/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C17/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C11/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C16/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C13/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C08/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C02/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C12/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C14/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C06/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C10/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/C30/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/W06/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/W05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/W07/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/T01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H05/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H04/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H02/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+    <Parent Path="Network/Companies/TPC/TC/H01/0/CalcPoint">
+      <Discrete Name="PWR_FAIL">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+            <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/pwr_fail_1" LinkTypeId="">
+            </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+  </Instances>
+</XDF>

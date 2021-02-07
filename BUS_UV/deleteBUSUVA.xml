@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XDF xml:lang="EN" XdfTypeSyntaxVersion="2.0.00">
+  <Instances>
+    <Parent Path="Network/Companies/TPC/TC/S01/11/2BUS">
+      <Discrete Name="UVA" Guid="{5cbd9e7b-4a2e-4f64-9f9a-5ea34ec42e14}" WeightingSE="0" phases="0" OTSExtPointFlag="false" Nimset="47066" ElementType="2267" ElementName="1304" ControllingID="" Relevance="" NoElType="6" MeasurementType="0" InternalScadaFlag="true" HisAreaOfResponsibilityId="" ElementText="27/59 RY(欠壓或過壓)" ElementNameString="UVA" AreaOfResponsibilityId="919" GISId="" Description="" aliasName="">
+        <DiscreteValue Name="Status" Guid="{d337d0ca-d26d-49c8-8129-58f78873f144}" ListDisappearing1="" ListAppearing4="" ListAppearing3="" ListAppearing2="" ListAppearing1="" InfoType="" InfoName="60000003" DisturbanceType="" Archive="true" AlarmInhibitInfoType="" AckListDisappearing="" AckListAppearing="" ValueNameIndex="" ValueNameComIndex="" value="" SingleMessageText="" SignallingStatus="" SignallingSpontaneousChange="" MessageClass="" ListNumber4="" ListNumber3="" ListNumber2="" ListNumber1="" ListMsgFormat4="" ListMsgFormat3="" ListMsgFormat2="" ListMsgFormat1="" ListDisappearing4="" ListDisappearing3="" ListDisappearing2="" PITagName="" PIQCMappingFlag="" PIPointType="" PIIncomingOutgoing="" PIFlag="false" PIDigitalSet="" InternalScadaFlag="true" InfoNumber="3" InfoNameString="Status" EDNAPointId="" EDNAFlag="false" GISId="" Description="" aliasName="">
+          <RealtimeCalculation Name="Calculation" Guid="{d8fb0760-02eb-473e-84a9-f73bb1fbd3f9}" InternalScadaFlag="true" CalcType="0" CalcProcessingType="1" CalcPriority="1" CalcDelayTime="" Description="">
+            <Delete>
+              <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV" Guid="{95a4332d-7a43-4d12-bba0-70c99532e161}" LinkTypeId="{ac73eea6-8fcc-11d4-8304-00600895dec7}">
+              </Link_RealtimeCalculationAssociatedWithCalculationRule>
+            </Delete>
+            <DynamicOperand Name="a" Guid="{92833b61-94f3-44d4-90bb-d114a5eaec1f}" NormalSourceSign="true" OrderNo="1" InternalScadaFlag="true" Description="V">
+              <Link_DynamicOperandDefinedByInfo PathB="Network/Companies/TPC/TC/S55/11/2BUS/V/MvMoment" Guid="{1e2dfc87-e6a6-46ba-8fee-90f498cda8f7}" LinkTypeId="{bbdc4275-d51a-471e-b819-985d35c00d25}">
+              </Link_DynamicOperandDefinedByInfo>
+            </DynamicOperand>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+  </Instances>
+</XDF>

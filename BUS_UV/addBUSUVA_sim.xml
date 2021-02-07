@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XDF xml:lang="EN" XdfTypeSyntaxVersion="2.0.00">
+  <Instances>
+    <Parent Path="Network/Companies/TPC/TC/S01/11/2BUS">
+      <Discrete Name="UVA">
+        <DiscreteValue Name="Status">
+          <RealtimeCalculation Name="Calculation">
+              <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV_1" LinkTypeId="">
+              </Link_RealtimeCalculationAssociatedWithCalculationRule>
+          </RealtimeCalculation>
+        </DiscreteValue>
+      </Discrete>
+    </Parent>
+  </Instances>
+</XDF>

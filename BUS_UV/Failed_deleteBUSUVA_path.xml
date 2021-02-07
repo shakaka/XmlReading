@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XDF xml:lang="EN" XdfTypeSyntaxVersion="2.0.00">
+  <Instances>
+    <Parent Path="Network/Companies/TPC/TC/S01/11/2BUS/UVA/Satus/Calculation">
+      <Delete>
+        <Link_RealtimeCalculationAssociatedWithCalculationRule PathB=".General - SCADA/.Spectrum Formulas/Formula TPC/BUS_UV" Guid="{95a4332d-7a43-4d12-bba0-70c99532e161}" LinkTypeId="{ac73eea6-8fcc-11d4-8304-00600895dec7}">
+        </Link_RealtimeCalculationAssociatedWithCalculationRule>
+      </Delete>
+    </Parent>
+  </Instances>
+</XDF>
